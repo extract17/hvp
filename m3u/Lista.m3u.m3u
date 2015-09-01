@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0,Sport TV 1
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c/
+#EXTINF:0,Sport TV 1
+#EXTVLCOPT:network-caching=1000
+acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59
+#EXTINF:0,Sport TV 2
+acestream://24660dc5f5a642f7f5df8873ddac481bc4702115/
+#EXTINF:0,Sport TV 2
+#EXTVLCOPT:network-caching=1000
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69
+#EXTINF:0,Sport TV 3
+acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280/
+#EXTINF:0,Sport TV 3
+#EXTVLCOPT:network-caching=1000
+acestream://b923cbc40e196a6cd5ebb89243a797a60c9b6992
+#EXTINF:0,Sport TV 4
+acestream://4f256982b213a8b3346b01683b82261db8dcd524/
+#EXTINF:0,Sky Sports 1
+acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c/
+#EXTINF:0,Sky Sports 1
+#EXTVLCOPT:network-caching=1000
+acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
+#EXTINF:0,Sky Sports 2
+#EXTVLCOPT:network-caching=1000
+acestream://e9969669eeed0adb1c68072e977283222ac9572e
+#EXTINF:0,Sky Sports 2
+#EXTVLCOPT:network-caching=1000
+acestream://e9969669eeed0adb1c68072e977283222ac9572e
+#EXTINF:0,Sky Sports 3
+#EXTVLCOPT:network-caching=1000
+acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55
+#EXTINF:0,Sky Sports 4
+#EXTVLCOPT:network-caching=1000
+acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe
+#EXTINF:0,Sky Sports 5
+#EXTVLCOPT:network-caching=1000
+acestream://37558d4ae8149aebd7e87a406fece41626e35c31
+#EXTINF:0,BT Sport 1
+#EXTVLCOPT:network-caching=1000
+acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5
